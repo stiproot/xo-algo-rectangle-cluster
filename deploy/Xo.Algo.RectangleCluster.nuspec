@@ -4,13 +4,13 @@
     <id>Xo.Algo.RectangleCluster</id>
     <version>1.0.0.0</version>
     <title>Xo.Algo.RectangleCluster</title>
-    <authors>Yield</authors>
+    <authors></authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>The TaskWorkflowEngine provides a framework for "stringing" together Tasks. In a nutshell, it allows for the results of Tasks to be fed into other Tasks, buy building up a tree structure of ITaskHandles and calling the root nodes Run method.</description>
+    <description>/description>
     <tags></tags>
     <summary></summary>
   </metadata>
   <files>
-    <file src="..\artifacts\temp\net6.0\application\Xo.Algo.RectangleCluster.dll" target="lib\net6.0"/>
+    <file src="..\artifacts\tmp\net6.0\application\Xo.Algo.RectangleCluster.dll" target="lib\net6.0"/>
   </files>
 </package>
